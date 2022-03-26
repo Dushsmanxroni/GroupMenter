@@ -83,17 +83,16 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD TO YOUR GROUP ➕️", url="https://t.me/GroupMenterRobot?startgroup=true"),
+            text="➕️ ADD TO YOUR GROUP ➕️", url="https://t.me/JinKazamaXBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="CHANNEL📢", url="https://t.me/tobot_update"),
-        InlineKeyboardButton(text="GROUP👥", url="https://t.me/tobotupdate"),
+        InlineKeyboardButton(text="CHANNEL📢", url="https://t.me/jinkazma_Support"),
+        InlineKeyboardButton(text="GROUP👥", url="https://t.me/Jinkazma_Support"),
     ],
     [
-        InlineKeyboardButton(text="REPO🤖",url="https://t.me/bot_repo"),
-        InlineKeyboardButton(text="DEVLOAPER👩‍💻",="https://t.me/rungram"),
+        InlineKeyboardButton(text="DEVLOAPER👩‍💻",="https://t.me/Ronin_Fighters_Fd"),
     ],
-    [   InlinekeyboardButton(text="🔔SUBSCRIBE🔔",="https://youtube.com/channel/UC1SeMwgyNDi_n4T8cbgVjKQ"), 
+    [   InlinekeyboardButton(text="🔔SUBSCRIBE",="j"), 
         ),
     ],
 ]
